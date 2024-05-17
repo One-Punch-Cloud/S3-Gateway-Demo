@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Jackal S3 Gateway UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped to make demo for Jackal S3 gateway [Jackal-S3-Gateway](https://github.com/One-Punch-Cloud/Jackal-S3-Gateway).
 
 ## Available Scripts
 
